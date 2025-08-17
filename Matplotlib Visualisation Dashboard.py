@@ -11,7 +11,6 @@ Visualizations included:
 4. Bar Chart - Product Sales
 5. Pie Chart - Market Share
 
-Author: Your Name
 """
 
 import matplotlib.pyplot as plt
@@ -81,3 +80,4 @@ axes[1, 2].axis("off")
 # Adjust layout and display plots
 plt.tight_layout(rect=[0, 0, 1, 0.96])
 plt.show()
+
